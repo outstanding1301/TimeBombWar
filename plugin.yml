@@ -1,0 +1,8 @@
+name: BoomBoom
+main: Boom.main
+version: 1.0
+commands:
+  bb:
+      description: BoomBoom.
+      permission: 
+      usage: /<command>
